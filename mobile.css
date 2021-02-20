@@ -1,0 +1,8 @@
+@media screen and (max-width:1000px) {
+  .col-left {
+      width: 100%;
+  }
+  nav {
+      width: 100%;
+  }
+}
